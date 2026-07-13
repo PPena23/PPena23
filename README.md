@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá! 👋 Sou o Pedro
 
-<!--
-**PPena23/PPena23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em transição de carreira, unindo código com 20+ anos de experiência resolvendo problemas de gente de verdade.
 
-Here are some ideas to get you started:
+🚀 Projetos em destaque
+- [Segue a Dica](https://segueadica.com.br)** — App full stack com React, TypeScript e Supabase
+- [Tech Solidário](https://techsolidario.com.br)** — Plataforma de gestão para projeto social que já capacitou 80+ alunos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Stack
+React · TypeScript · Supabase · HTML · CSS · JavaScript
+
+📚 Formação
+Bacharelado em TI (Univesp) · Pós-graduação em BI, Big Data e IA (em andamento)
+
+📫 Contato
+[LinkedIn](https://www.linkedin.com/in/pedropena23/)

@@ -3,8 +3,8 @@ Olá! 👋 Sou o Pedro
 Desenvolvedor Full Stack em transição de carreira, unindo código com 20+ anos de experiência resolvendo problemas de gente de verdade.
 
 🚀 Projetos em destaque
-- [Segue a Dica](https://segueadica.com.br)** — App full stack com React, TypeScript e Supabase
-- [Tech Solidário](https://techsolidario.com.br)** — Plataforma de gestão para projeto social que já capacitou 80+ alunos
+- [Segue a Dica](https://segueadica.com.br) — App full stack com React, TypeScript e Supabase
+- [Tech Solidário](https://techsolidario.com.br) — Plataforma de gestão para projeto social que já capacitou 80+ alunos
 
 🛠️ Stack
 React · TypeScript · Supabase · HTML · CSS · JavaScript

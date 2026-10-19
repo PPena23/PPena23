@@ -1,16 +1,28 @@
-Olá! 👋 Sou o Pedro
+## Olá! 👋 Sou o Pedro
 
-Desenvolvedor Full Stack em transição de carreira, unindo código com 20+ anos de experiência resolvendo problemas de gente de verdade.
+Sou **Desenvolvedor Frontend** e trabalho com **IA aplicada**. Transformo processos manuais em aplicações simples de usar e trago na bagagem mais de 20 anos resolvendo problemas de gente de verdade, no suporte técnico e em sala de aula.
 
-🚀 Projetos em destaque
-- [Segue a Dica](https://segueadica.com.br) — App full stack com React, TypeScript e Supabase
-- [Tech Solidário](https://techsolidario.com.br) — Plataforma de gestão para projeto social que já capacitou 80+ alunos
+### 🚀 Projetos em destaque
 
-🛠️ Stack
-React · TypeScript · Supabase · HTML · CSS · JavaScript
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Painel de Inventário de TI com IA**](https://github.com/PPena23/painel-inventario-ti-ia) | Dashboard multipágina com filtros, gráficos, cadastro e um assistente que consulta os dados por *function calling* | Python · Streamlit · Plotly · Gemini |
+| **Sistema de Inventário de TI** *(uso interno, privado)* | Sistema em produção numa empresa do agronegócio. Usa IA para classificar equipamentos novos e pesquisar valor de mercado, e tem dashboards, QR Code e PDF | Next.js · React · TypeScript · Supabase · Claude/Gemini |
+| [**MEI Fornecedores**](https://mei-fornecedores.vercel.app) | SaaS multiusuário de fornecedores e pedidos de orçamento por e-mail e WhatsApp | Next.js · Supabase · LLMs · Resend |
+| [**Tech Solidário**](https://techsolidario.com.br) | Plataforma e app de um projeto social de inclusão digital, com mais de 500 alunos atendidos, gamificação e certificados | React · TypeScript · Tailwind · React Native/Expo |
+| [**Segue a Dica**](https://segueadica.com.br) | App mobile com push notifications e deep linking | React Native · Expo · Supabase |
 
-📚 Formação
-Bacharelado em TI (Univesp) · Pós-graduação em BI, Big Data e IA (em andamento)
+### 🛠️ Stack
 
-📫 Contato
+**Frontend:** JavaScript (ES6+) · TypeScript · React · Next.js · HTML5 · CSS3 · Tailwind · shadcn/ui
+**Frontend Python:** Python · Streamlit · Plotly · pandas
+**Mobile:** React Native · Expo
+**IA:** LLMs (Claude, Gemini) · Prompt Engineering · Function calling · Automação de processos
+**Dados e backend:** Supabase (PostgreSQL) · SQL · APIs REST · Power BI
+**Estudando agora:** Vue 3 · Angular
+
+### 📚 Formação
+Bacharelado em Tecnologia da Informação (UNIVESP) · Pós-graduação em BI, Big Data e IA (em andamento)
+
+### 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/pedropena23/)

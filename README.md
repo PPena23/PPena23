@@ -6,6 +6,8 @@ Sou **Desenvolvedor Frontend** e trabalho com **IA aplicada**. Transformo proces
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**Vértice Motors: revenda de carros**](https://github.com/PPena23/revenda-carros-angular) · [demo](https://ppena23.github.io/revenda-carros-angular/) | Catálogo público com filtros e simulador de financiamento, mais painel administrativo com login, cadastro de veículos e funil de leads | Angular 22 · RxJS · Reactive Forms · Signals |
+| [**Pé de Feijão: frente de loja (PDV)**](https://github.com/PPena23/pdv-mercearia-react) · [demo](https://ppena23.github.io/pdv-mercearia-react/) | Caixa de mercearia com atalhos de teclado, pagamento dividido, fiado, fechamento de caixa e relatórios. Regras de negócio com testes | React 19 · TypeScript · Tailwind · Vitest |
 | [**Almoxarifado de Ferramentas**](https://github.com/PPena23/controle-ferramentas-vue) · [demo](https://ppena23.github.io/controle-ferramentas-vue/) | Cadastro e controle de ferramentas com estoque, empréstimos, devoluções e histórico. Mobile first, com CSS feito à mão | Vue 3 · TypeScript · Pinia · Vue Router |
 | [**Boa Safra: Entrada e Saída de Mercadorias**](https://github.com/PPena23/estoque-mercadorias-streamlit) | Controle de estoque com curva ABC, lotes e validade, além de importação de nota fiscal com IA (saída estruturada) | Python · Streamlit · SQLite · Gemini |
 | [**Painel de Inventário de TI com IA**](https://github.com/PPena23/painel-inventario-ti-ia) | Dashboard multipágina com filtros, gráficos, cadastro e um assistente que consulta os dados por *function calling* | Python · Streamlit · Plotly · Gemini |
@@ -16,12 +18,13 @@ Sou **Desenvolvedor Frontend** e trabalho com **IA aplicada**. Transformo proces
 
 ### 🛠️ Stack
 
-**Frontend:** JavaScript (ES6+) · TypeScript · React · Next.js · Vue 3 (Pinia, Vue Router) · HTML5 · CSS3 · Tailwind · shadcn/ui
+**Frontend:** JavaScript (ES6+) · TypeScript · React · Next.js · Vue 3 (Pinia, Vue Router) · Angular (RxJS, Reactive Forms) · HTML5 · CSS3 · Tailwind · shadcn/ui
 **Frontend Python:** Python · Streamlit · Plotly · pandas
 **Mobile:** React Native · Expo
 **IA:** LLMs (Claude, Gemini) · Prompt Engineering · Function calling · Automação de processos
 **Dados e backend:** Supabase (PostgreSQL) · SQL · APIs REST · Power BI
-**Estudando agora:** Angular
+**Qualidade:** Vitest · testes de regras de negócio · Git/GitHub
+**Estudando agora:** Java
 
 ### 📚 Formação
 Bacharelado em Tecnologia da Informação (UNIVESP) · Pós-graduação em BI, Big Data e IA (em andamento)
